@@ -4,3 +4,4 @@ sudo yum -y install java-11*
 sudo yum -y install jenkins
 sudo systemctl start jenkins
 sudo systemctl enable jenkins
+fghk
